@@ -1,14 +1,10 @@
-# Javascript skeleton 1.0.2
+# Javascript skeleton
 
-This skeleton incorporates changes for the Javascript skeleton for the Global Coding Challenge. For reference, files and folders added or modified include:
+This skeleton incorporates changes for the Javascript skeleton for the TA Coding Challenge.
 
-- .travis.yml
-- package.json
-- spec.js
+The contents of the folder will need to copied and pasted into your skeleton repositories at the root directory in order for submissions to be valid.
 
-These changes will need to be copied and pasted into your skeleton repositories in order for submissions to be valid.
-
-To run tests locally, simply run all tests using your favoured IDE. Please note that this won't produce a green or red build.
+To run tests locally, simply run all tests using your favoured IDE. Please note that this won't produce a green or red build - test results will be printed out to your console.
 
 ## PLEASE NOTE: Once you have copied and pasted the files, DO NOT edit the spec.js file or the .travis.yml file.
 
