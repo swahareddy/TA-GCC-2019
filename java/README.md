@@ -1,12 +1,8 @@
-# Java skeleton 1.0.2
+# Java skeleton
 
-This skeleton incorporates changes for the Java skeleton for the Global Coding Challenge. For reference, files and folders added or modified include:
+This skeleton incorporates changes for the Java skeleton for the TA Coding Challenge. 
 
-- pom.xml
-- .travis.yml
-- src/test/
-
-These changes will need to copied and pasted into your skeleton repositories in order for submissions to be valid.
+The contents of the folder will need to copied and pasted into your skeleton repositories at the root directory in order for submissions to be valid.
 
 To run tests locally, simply run all tests using your favoured IDE. Please note that this won't produce a green or red build - test results will be printed out to your console.
 
